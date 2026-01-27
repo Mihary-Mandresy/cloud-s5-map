@@ -1,0 +1,21 @@
+{
+  "options": {
+    "paths": {
+      "root": "/data",
+      "fonts": "/data/fonts",
+      "styles": "/data/styles",
+      "mbtiles": "/data"
+    },
+    "domains": ["localhost:3000", "127.0.0.1:3000"]
+  },
+  "styles": {
+    "bright": {
+      "style": "bright/style.json"
+    }
+  },
+  "data": {
+    "v3": {
+      "mbtiles": "osm-2020-02-10-v3.11_madagascar_antananarivo.mbtiles"
+    }
+  }
+}
